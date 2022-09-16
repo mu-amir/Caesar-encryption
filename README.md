@@ -7,5 +7,6 @@ The recipient has to decode the message by unshifting the characters by the shif
 Encoding:
 ![game_test_output1](https://user-images.githubusercontent.com/61329578/190535588-67eb287f-09bf-48cd-8dca-19b69c37cca2.png)
 
-Encoding and decoding example:
+Encoding and decoding example:                                                                                                         
+       -------------------------------------------------------------------------------------------------------------------------------
 ![game_test_encode decode](https://user-images.githubusercontent.com/61329578/190535671-637bc431-867f-4944-bec0-302358963217.png)
